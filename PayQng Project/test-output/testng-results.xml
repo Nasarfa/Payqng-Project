@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="23766" started-at="2019-12-20T16:45:42 IST" finished-at="2019-12-20T16:46:06 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="23766" started-at="2019-12-20T16:45:42 IST" finished-at="2019-12-20T16:46:06 IST">
+      <class name="testcases.UserManagementTestCase">
+        <test-method status="PASS" signature="launchbrowser()[pri:0, instance:testcases.UserManagementTestCase@72b6cbcc]" name="launchbrowser" is-config="true" duration-ms="6359" started-at="2019-12-20T16:45:36 IST" finished-at="2019-12-20T16:45:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchbrowser -->
+        <test-method status="PASS" signature="user_management_function_verify()[pri:0, instance:testcases.UserManagementTestCase@72b6cbcc]" name="user_management_function_verify" duration-ms="23716" started-at="2019-12-20T16:45:42 IST" finished-at="2019-12-20T16:46:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- user_management_function_verify -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:testcases.UserManagementTestCase@72b6cbcc]" name="teardown" is-config="true" duration-ms="523" started-at="2019-12-20T16:46:11 IST" finished-at="2019-12-20T16:46:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testcases.UserManagementTestCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
