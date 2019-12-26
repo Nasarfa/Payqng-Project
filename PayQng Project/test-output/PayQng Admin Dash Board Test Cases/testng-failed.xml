@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
-<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
-  <test thread-count="5" name="Default test(failed)">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [PayQng Admin Dash Board Test Cases]">
+  <test thread-count="5" name="login Page Test Case(failed)">
     <classes>
       <class name="testcases.UserManagementTestCase">
         <methods>
@@ -10,9 +10,8 @@
           <include name="user_history"/>
           <include name="user_management_home"/>
           <include name="teardown"/>
-          <include name="loginpage"/>
         </methods>
       </class> <!-- testcases.UserManagementTestCase -->
     </classes>
-  </test> <!-- Default test(failed) -->
-</suite> <!-- Failed suite [Default suite] -->
+  </test> <!-- login Page Test Case(failed) -->
+</suite> <!-- Failed suite [PayQng Admin Dash Board Test Cases] -->

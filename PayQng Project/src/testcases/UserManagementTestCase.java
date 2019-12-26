@@ -14,7 +14,10 @@ import pageobjectmodel.UserManagement;
 
 public class UserManagementTestCase extends CommonFunction {
 	Logger logger=Logger.getLogger(UserManagementTestCase.class);
+	@Test(priority = 0)
 	public void loginpage() {
+		testcase=extentreport.createTest("Login Test Case");	
+		PageFactory.initElements(driver, LoginPageObject.class);
 		logger.info("Entering user name");
 		LoginPageObject.username.sendKeys(properties.getProperty("username"));
 		testcase.pass("Entered User Name Successfully");
@@ -25,13 +28,19 @@ public class UserManagementTestCase extends CommonFunction {
 		LoginPageObject.clickonlogin.click();
 		testcase.pass("Login Button Clicked Successfully");
 	}
+	@Test(priority = 1)
 	public void click_on_usermanagement() throws InterruptedException {
+		testcase=extentreport.createTest("Click User Management Test Case");	
+		PageFactory.initElements(driver, UserManagement.class);
 		Thread.sleep(5000);
 		logger.info("User Management going to click");
 		UserManagement.clickonusermanagement.click();
 		testcase.pass("User Management Clicked Successfully");
 	}
+	@Test(priority = 2)
 	public void user_history() throws InterruptedException, IOException {
+		testcase=extentreport.createTest("User Management User History Test Case");	
+		PageFactory.initElements(driver, UserManagement.class);
 		Thread.sleep(5000);
 		logger.info("Click on the history button");
 		UserManagement.clickonhistory.click();
@@ -52,7 +61,10 @@ public class UserManagementTestCase extends CommonFunction {
 		UserManagement.clickonexist.click();
 		testcase.pass("Clicked Exist Button Successfully");
 	}
+	@Test(priority = 3)
 	public void user_management_home() throws InterruptedException, IOException {
+		testcase=extentreport.createTest("User Management Homr Function Test Case");	
+		PageFactory.initElements(driver, UserManagement.class);
 		Thread.sleep(5000);
 		logger.info("Click on the next button");
 		UserManagement.clickonnext.click();
@@ -66,15 +78,5 @@ public class UserManagementTestCase extends CommonFunction {
 		logger.info("Clicked the Home CSV button");
 		UserManagement.clickonHomecsv.click();
 		testcase.pass("Clicked Home CSV Button Successfully");
-	}
-	@Test
-	public void user_management_function_verify() throws InterruptedException, IOException {
-		PageFactory.initElements(driver, LoginPageObject.class);
-		PageFactory.initElements(driver, UserManagement.class);
-		testcase=extentreport.createTest("User Management Test Case");	
-		loginpage();
-		click_on_usermanagement();
-		user_history();
-		user_management_home();
 	}
 }

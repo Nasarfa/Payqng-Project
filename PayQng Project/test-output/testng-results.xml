@@ -1,25 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="23766" started-at="2019-12-20T16:45:42 IST" finished-at="2019-12-20T16:46:06 IST">
+  <suite name="PayQng Admin Dash Board Test Cases" duration-ms="25534" started-at="2019-12-21T14:25:50 IST" finished-at="2019-12-21T14:26:15 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="23766" started-at="2019-12-20T16:45:42 IST" finished-at="2019-12-20T16:46:06 IST">
+    <test name="login Page Test Case" duration-ms="25534" started-at="2019-12-21T14:25:50 IST" finished-at="2019-12-21T14:26:15 IST">
       <class name="testcases.UserManagementTestCase">
-        <test-method status="PASS" signature="launchbrowser()[pri:0, instance:testcases.UserManagementTestCase@72b6cbcc]" name="launchbrowser" is-config="true" duration-ms="6359" started-at="2019-12-20T16:45:36 IST" finished-at="2019-12-20T16:45:42 IST">
+        <test-method status="PASS" signature="launchbrowser()[pri:0, instance:testcases.UserManagementTestCase@3a883ce7]" name="launchbrowser" is-config="true" duration-ms="13531" started-at="2019-12-21T14:25:36 IST" finished-at="2019-12-21T14:25:50 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchbrowser -->
-        <test-method status="PASS" signature="user_management_function_verify()[pri:0, instance:testcases.UserManagementTestCase@72b6cbcc]" name="user_management_function_verify" duration-ms="23716" started-at="2019-12-20T16:45:42 IST" finished-at="2019-12-20T16:46:06 IST">
+        <test-method status="PASS" signature="loginpage()[pri:0, instance:testcases.UserManagementTestCase@3a883ce7]" name="loginpage" duration-ms="481" started-at="2019-12-21T14:25:50 IST" finished-at="2019-12-21T14:25:50 IST">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- user_management_function_verify -->
-        <test-method status="PASS" signature="teardown()[pri:0, instance:testcases.UserManagementTestCase@72b6cbcc]" name="teardown" is-config="true" duration-ms="523" started-at="2019-12-20T16:46:11 IST" finished-at="2019-12-20T16:46:12 IST">
+        </test-method> <!-- loginpage -->
+        <test-method status="PASS" signature="click_on_usermanagement()[pri:1, instance:testcases.UserManagementTestCase@3a883ce7]" name="click_on_usermanagement" duration-ms="7440" started-at="2019-12-21T14:25:50 IST" finished-at="2019-12-21T14:25:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- click_on_usermanagement -->
+        <test-method status="PASS" signature="user_history()[pri:2, instance:testcases.UserManagementTestCase@3a883ce7]" name="user_history" duration-ms="11899" started-at="2019-12-21T14:25:58 IST" finished-at="2019-12-21T14:26:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- user_history -->
+        <test-method status="PASS" signature="user_management_home()[pri:3, instance:testcases.UserManagementTestCase@3a883ce7]" name="user_management_home" duration-ms="5658" started-at="2019-12-21T14:26:10 IST" finished-at="2019-12-21T14:26:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- user_management_home -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:testcases.UserManagementTestCase@3a883ce7]" name="teardown" is-config="true" duration-ms="1901" started-at="2019-12-21T14:26:16 IST" finished-at="2019-12-21T14:26:18 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
       </class> <!-- testcases.UserManagementTestCase -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- login Page Test Case -->
+  </suite> <!-- PayQng Admin Dash Board Test Cases -->
 </testng-results>

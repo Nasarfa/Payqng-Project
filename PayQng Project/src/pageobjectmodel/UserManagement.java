@@ -7,7 +7,7 @@ public class UserManagement {
 
 @FindBy(xpath="/html/body/div[2]/div/div/div/div[1]/a/div/p")	
 public static WebElement clickonusermanagement;
-@FindBy(xpath="//*[@id=\"doctoruser\"]/tbody/tr[2]/td[6]/button")
+@FindBy(xpath="//*[@id=\"doctoruser\"]/tbody/tr[3]/td[6]/button")
 public static WebElement clickonhistory;
 @FindBy(xpath="//*[@id=\"historing_filter\"]/label/input")
 public static WebElement clickonsearchandenter;

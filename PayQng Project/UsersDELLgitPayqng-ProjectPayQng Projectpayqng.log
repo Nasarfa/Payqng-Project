@@ -1,0 +1,102 @@
+2019-12-21 14:00:22[main] INFO  CommonFunction  - Browser Launching
+2019-12-21 14:00:30[main] INFO  CommonFunction  - Browser maximise
+2019-12-21 14:00:34[main] INFO  CommonFunction  - Browser Navigated to the Payqng Admin Dashboard
+2019-12-21 14:00:44[main] INFO  UserManagementTestCase  - User Management going to click
+2019-12-21 14:00:46[main] INFO  CommonFunction  - Browser closed Successfully
+2019-12-21 14:01:23[main] INFO  CommonFunction  - Browser Launching
+2019-12-21 14:01:30[main] INFO  CommonFunction  - Browser maximise
+2019-12-21 14:01:34[main] INFO  CommonFunction  - Browser Navigated to the Payqng Admin Dashboard
+2019-12-21 14:01:43[main] INFO  UserManagementTestCase  - User Management going to click
+2019-12-21 14:01:43[main] INFO  UserManagementTestCase  - Entering user name
+2019-12-21 14:01:44[main] INFO  UserManagementTestCase  - Entering password
+2019-12-21 14:01:44[main] INFO  UserManagementTestCase  - Login button going to click
+2019-12-21 14:01:49[main] INFO  UserManagementTestCase  - Click on the history button
+2019-12-21 14:01:54[main] INFO  UserManagementTestCase  - Click on the next button
+2019-12-21 14:01:54[main] INFO  CommonFunction  - Browser closed Successfully
+2019-12-21 14:04:33[main] INFO  CommonFunction  - Browser Launching
+2019-12-21 14:04:40[main] INFO  CommonFunction  - Browser maximise
+2019-12-21 14:04:44[main] INFO  CommonFunction  - Browser Navigated to the Payqng Admin Dashboard
+2019-12-21 14:04:53[main] INFO  UserManagementTestCase  - User Management going to click
+2019-12-21 14:04:53[main] INFO  UserManagementTestCase  - Entering user name
+2019-12-21 14:04:53[main] INFO  UserManagementTestCase  - Entering password
+2019-12-21 14:04:53[main] INFO  UserManagementTestCase  - Login button going to click
+2019-12-21 14:04:58[main] INFO  UserManagementTestCase  - Click on the history button
+2019-12-21 14:05:04[main] INFO  UserManagementTestCase  - Click on the next button
+2019-12-21 14:05:09[main] INFO  UserManagementTestCase  - User Management going to click
+2019-12-21 14:05:11[main] INFO  UserManagementTestCase  - Entering user name
+2019-12-21 14:05:16[main] INFO  UserManagementTestCase  - Click on the history button
+2019-12-21 14:05:21[main] INFO  UserManagementTestCase  - Click on the search button and enter the value to search
+2019-12-21 14:05:21[main] INFO  UserManagementTestCase  - Click on the user pdf button
+2019-12-21 14:05:21[main] INFO  UserManagementTestCase  - Click on the user CSV Button
+2019-12-21 14:05:22[main] INFO  UserManagementTestCase  - Click on the Exist button
+2019-12-21 14:05:27[main] INFO  UserManagementTestCase  - Click on the next button
+2019-12-21 14:05:27[main] INFO  UserManagementTestCase  - Clicked the home search button and enter the value
+2019-12-21 14:05:28[main] INFO  UserManagementTestCase  - Clicked the home pdf button
+2019-12-21 14:05:28[main] INFO  UserManagementTestCase  - Clicked the Home CSV button
+2019-12-21 14:05:34[main] INFO  UserManagementTestCase  - User Management going to click
+2019-12-21 14:05:34[main] INFO  UserManagementTestCase  - Entering user name
+2019-12-21 14:05:39[main] INFO  UserManagementTestCase  - Click on the history button
+2019-12-21 14:05:44[main] INFO  UserManagementTestCase  - Click on the next button
+2019-12-21 14:05:44[main] INFO  UserManagementTestCase  - Clicked the home search button and enter the value
+2019-12-21 14:05:44[main] INFO  UserManagementTestCase  - Clicked the home pdf button
+2019-12-21 14:05:44[main] INFO  UserManagementTestCase  - Clicked the Home CSV button
+2019-12-21 14:05:50[main] INFO  UserManagementTestCase  - User Management going to click
+2019-12-21 14:05:50[main] INFO  UserManagementTestCase  - Entering user name
+2019-12-21 14:05:55[main] INFO  UserManagementTestCase  - Click on the history button
+2019-12-21 14:06:00[main] INFO  UserManagementTestCase  - Click on the next button
+2019-12-21 14:06:00[main] INFO  UserManagementTestCase  - Clicked the home search button and enter the value
+2019-12-21 14:06:00[main] INFO  UserManagementTestCase  - Clicked the home pdf button
+2019-12-21 14:06:00[main] INFO  UserManagementTestCase  - Clicked the Home CSV button
+2019-12-21 14:06:00[main] INFO  CommonFunction  - Browser closed Successfully
+2019-12-21 14:07:16[main] INFO  CommonFunction  - Browser Launching
+2019-12-21 14:07:23[main] INFO  CommonFunction  - Browser maximise
+2019-12-21 14:07:27[main] INFO  CommonFunction  - Browser Navigated to the Payqng Admin Dashboard
+2019-12-21 14:07:35[main] INFO  UserManagementTestCase  - User Management going to click
+2019-12-21 14:07:35[main] INFO  UserManagementTestCase  - Entering user name
+2019-12-21 14:07:36[main] INFO  UserManagementTestCase  - Entering password
+2019-12-21 14:07:36[main] INFO  UserManagementTestCase  - Login button going to click
+2019-12-21 14:07:41[main] INFO  UserManagementTestCase  - Click on the history button
+2019-12-21 14:07:46[main] INFO  UserManagementTestCase  - Click on the next button
+2019-12-21 14:07:46[main] INFO  CommonFunction  - Browser closed Successfully
+2019-12-21 14:21:36[main] INFO  CommonFunction  - Browser Launching
+2019-12-21 14:21:43[main] INFO  CommonFunction  - Browser maximise
+2019-12-21 14:21:47[main] INFO  CommonFunction  - Browser Navigated to the Payqng Admin Dashboard
+2019-12-21 14:21:49[main] INFO  UserManagementTestCase  - Entering user name
+2019-12-21 14:21:54[main] INFO  UserManagementTestCase  - User Management going to click
+2019-12-21 14:22:00[main] INFO  UserManagementTestCase  - Click on the history button
+2019-12-21 14:22:05[main] INFO  UserManagementTestCase  - Click on the next button
+2019-12-21 14:22:05[main] INFO  CommonFunction  - Browser closed Successfully
+2019-12-21 14:22:17[main] INFO  CommonFunction  - Browser Launching
+2019-12-21 14:22:26[main] INFO  CommonFunction  - Browser maximise
+2019-12-21 14:22:30[main] INFO  CommonFunction  - Browser Navigated to the Payqng Admin Dashboard
+2019-12-21 14:22:37[main] INFO  UserManagementTestCase  - Entering user name
+2019-12-21 14:22:37[main] INFO  UserManagementTestCase  - Entering password
+2019-12-21 14:22:37[main] INFO  UserManagementTestCase  - Login button going to click
+2019-12-21 14:22:42[main] INFO  UserManagementTestCase  - User Management going to click
+2019-12-21 14:22:50[main] INFO  UserManagementTestCase  - Click on the history button
+2019-12-21 14:22:55[main] INFO  UserManagementTestCase  - Click on the search button and enter the value to search
+2019-12-21 14:22:55[main] INFO  UserManagementTestCase  - Click on the user pdf button
+2019-12-21 14:22:55[main] INFO  UserManagementTestCase  - Click on the user CSV Button
+2019-12-21 14:22:56[main] INFO  UserManagementTestCase  - Click on the Exist button
+2019-12-21 14:23:01[main] INFO  UserManagementTestCase  - Click on the next button
+2019-12-21 14:23:01[main] INFO  UserManagementTestCase  - Clicked the home search button and enter the value
+2019-12-21 14:23:02[main] INFO  UserManagementTestCase  - Clicked the home pdf button
+2019-12-21 14:23:02[main] INFO  UserManagementTestCase  - Clicked the Home CSV button
+2019-12-21 14:23:02[main] INFO  CommonFunction  - Browser closed Successfully
+2019-12-21 14:25:36[main] INFO  CommonFunction  - Browser Launching
+2019-12-21 14:25:43[main] INFO  CommonFunction  - Browser maximise
+2019-12-21 14:25:47[main] INFO  CommonFunction  - Browser Navigated to the Payqng Admin Dashboard
+2019-12-21 14:25:50[main] INFO  UserManagementTestCase  - Entering user name
+2019-12-21 14:25:50[main] INFO  UserManagementTestCase  - Entering password
+2019-12-21 14:25:50[main] INFO  UserManagementTestCase  - Login button going to click
+2019-12-21 14:25:56[main] INFO  UserManagementTestCase  - User Management going to click
+2019-12-21 14:26:03[main] INFO  UserManagementTestCase  - Click on the history button
+2019-12-21 14:26:08[main] INFO  UserManagementTestCase  - Click on the search button and enter the value to search
+2019-12-21 14:26:08[main] INFO  UserManagementTestCase  - Click on the user pdf button
+2019-12-21 14:26:08[main] INFO  UserManagementTestCase  - Click on the user CSV Button
+2019-12-21 14:26:09[main] INFO  UserManagementTestCase  - Click on the Exist button
+2019-12-21 14:26:15[main] INFO  UserManagementTestCase  - Click on the next button
+2019-12-21 14:26:15[main] INFO  UserManagementTestCase  - Clicked the home search button and enter the value
+2019-12-21 14:26:15[main] INFO  UserManagementTestCase  - Clicked the home pdf button
+2019-12-21 14:26:15[main] INFO  UserManagementTestCase  - Clicked the Home CSV button
+2019-12-21 14:26:16[main] INFO  CommonFunction  - Browser closed Successfully
