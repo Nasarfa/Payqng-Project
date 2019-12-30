@@ -5,12 +5,11 @@
     <classes>
       <class name="testcases.UserManagementTestCase">
         <methods>
-          <include name="click_on_usermanagement"/>
+          <include name="Extentreport"/>
+          <include name="afterextentreport"/>
           <include name="launchbrowser"/>
-          <include name="user_history"/>
-          <include name="user_management_home"/>
           <include name="teardown"/>
-          <include name="loginpage"/>
+          <include name="verifyclickonusermanagement"/>
         </methods>
       </class> <!-- testcases.UserManagementTestCase -->
     </classes>

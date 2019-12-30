@@ -8,6 +8,6 @@ public class LoginPageObject {
 public static WebElement username;
 @FindBy(id="pass")
 public static WebElement password;
-@FindBy(id="linkadd")
+@FindBy(xpath="//*[@id=\"linkadd\"]")
 public static WebElement clickonlogin;
 }
